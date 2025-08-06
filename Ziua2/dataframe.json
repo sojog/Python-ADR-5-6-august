@@ -1,0 +1,17 @@
+{
+    "temperaturi": {
+        "0": 10,
+        "1": 20,
+        "2": 30
+    },
+    "culori": {
+        "0": "rosu",
+        "1": "negru",
+        "2": "alb"
+    },
+    "masuratori": {
+        "0": 2.0,
+        "1": null,
+        "2": null
+    }
+}
